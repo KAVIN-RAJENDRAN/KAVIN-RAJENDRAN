@@ -205,6 +205,7 @@ A secure full-stack digital voting platform designed around **authentication, au
 ## Experience
 
 ### Data Analytics & RPA Engineer Intern
+
 **Renault Nissan Automotive India Pvt. Ltd.**  
 `Mar 2025 – Apr 2025`
 
@@ -224,6 +225,7 @@ Worked on enterprise analytics, automation, and data-driven software solutions s
 <br/>
 
 ### AI & Automation Research Intern
+
 **Tube Products of India — Murugappa Group**  
 `Mar 2026 – May 2026`
 
@@ -299,18 +301,6 @@ Worked on intelligent automation and industrial monitoring solutions for manufac
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=KAVIN-RAJENDRAN&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</a>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -328,15 +318,15 @@ Worked on intelligent automation and industrial monitoring solutions for manufac
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/gh-pages/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/gh-pages/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/gh-pages/github-contribution-grid-snake.svg"
   />
 </picture>
 
