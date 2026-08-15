@@ -303,7 +303,9 @@ Worked on intelligent automation and industrial monitoring solutions for manufac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KAVIN-RAJENDRAN&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=KAVIN-RAJENDRAN&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</a>
 
 </div>
 
@@ -324,9 +326,18 @@ Worked on intelligent automation and industrial monitoring solutions for manufac
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/KAVIN-RAJENDRAN/KAVIN-RAJENDRAN/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
